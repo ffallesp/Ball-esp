@@ -6,10 +6,10 @@ package juego;
  *                       FACULTAD DE INGENIERIA ELECTRICA                      *
  *                UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO             *
  *                                                                             *     
- *                      PROGRAMACION DE COMPUTADORAS II                        *
- *                   PROFESOR: MIGUEL ANGEL GARCIA TRILLO                      *
  *                                                                             *
- *                Autor: 1423218d LEON LOEZA FELIPE ALEJANDRO                  *
+ *                             Autor: ALEJANDRO                                *
+ *                             UserName: FFALL                                 *
+ *                                                                             *
  *                                                                             *
  *                                                     ALL RITGHS RESERVED     *
  *                                                               09/DIC/15     *            
